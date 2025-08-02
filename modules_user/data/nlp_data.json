@@ -1,0 +1,34 @@
+{
+  "lokal": [
+    "siapa kamu",
+    "kamu siapa",
+    "nama kamu",
+    "halo",
+    "hai",
+    "hay",
+    "assalamualaikum",
+    "selamat pagi",
+    "selamat siang",
+    "selamat sore",
+    "selamat malam",
+    "apakabar",
+    "apa kabar",
+    "terima kasih",
+    "makasih",
+    "kalkulator",
+    "catat",
+    "lihat peristiwa"
+  ],
+  "publik": [
+    "siapa presiden",
+    "dimana",
+    "kapan",
+    "berapa",
+    "apa itu",
+    "pengertian",
+    "definisi",
+    "sejarah",
+    "biografi",
+    "geografi"
+  ]
+}
